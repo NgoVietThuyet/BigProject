@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1711534996 source:c:\users\ngoth\onedrive\desktop\btl\btl.cpp
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<ctime>
+	<iomanip>
+
+1715657140 c:\users\ngoth\onedrive\desktop\btl\function.h
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<cmath>
+	<ctime>
+	<iomanip>
+
+1711508020 source:c:\users\ngoth\onedrive\desktop\btl\version2.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<ctime>
+	<iomanip>
+
+1714208094 source:c:\users\ngoth\onedrive\desktop\btl\version3.cpp
+	"function.h"
+	"draw.h"
+	"level.h"
+	"Direction.h"
+	"play.h"
+
+1714202233 c:\users\ngoth\onedrive\desktop\btl\level.h
+
+1714056694 c:\users\ngoth\onedrive\desktop\btl\direction.h
+
+1714211022 c:\users\ngoth\onedrive\desktop\btl\play.h
+
+1715690980 c:\users\ngoth\onedrive\desktop\btl\draw.h
+
+1715692831 source:c:\users\ngoth\onedrive\desktop\btl\version4.cpp
+	"function.h"
+	"draw.h"
+	"level.h"
+	"Direction.h"
+	"play.h"
+
+1715657932 source:c:\users\ngoth\onedrive\desktop\btl\version5.cpp
+	"function.h"
+	"draw.h"
+	"level.h"
+	"Direction.h"
+	"play.h"
+
