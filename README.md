@@ -8,7 +8,7 @@ I. Hướng dẫn và cài đặt game.
 
 B1: Tải project về
 - Trên Github, chọn Code => Download ZIP
-  
+- Download SDL2-devel-2.30.3-mingw.tar.gz theo link : https://github.com/libsdl-org/SDL/releases/tag/release-2.30.3
 B2. Chạy game.
 - Main source tại phần version4.cpp.
   
