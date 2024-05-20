@@ -32,7 +32,7 @@ III. Các kĩ thuật được sử dụng.
 IV. Tài liệu.
 - Dùng CHATGPT 3.5 để xem xét cách cài đặt thuật toán trong SDL.
 - Sử dụng photoshop để edit ảnh.
-- Xem tài liệu tham khảo tại đây https://codelearn.io/sharing/lap-trinh-game-voi-sdl , https://www.iostream.co/article/xu-ly-su-kien-trong-sdl-dQnHl1
+- Xem tài liệu tham khảo tại đây https://codelearn.io/sharing/lap-trinh-game-voi-sdl , https://www.iostream.co/article/xu-ly-su-kien-trong-sdl-dQnHl1 https://phattrienphanmem123az.com/software-development-models
   
 V. Kết luận và tự nhận xét.
 - Đây là sản phầm game đầu tay nên còn nhiều thiếu xót, game cần được cải tiến và nâng cấp một số chức năng:
