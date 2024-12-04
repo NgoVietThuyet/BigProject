@@ -28,17 +28,19 @@
 :white_check_mark: Giao diện thân thiện với người dùng. 
 
 ### CÀI ĐẶT
-- Yêu cầu hệ thống
+# Yêu cầu hệ thống
   +  Ngôn ngữ lập trình Java.
   +  MySQL.
   +  Các thư viện hỗ trợ khác.
-- Hướng dẫn cài đặt
+# Hướng dẫn cài đặt
   1. Clone dự án
   https://github.com/ducvanz/BTL_OOP.git
-  2. Cài đặt một số thư viện hỗ trợ
-  ![image](https://github.com/user-attachments/assets/58028132-116a-4b35-9531-a177cd612e1a)
-  3. Cài đặt cơ sở dữ liệu
-  4. Chạy dự án
+
+  3. Cài đặt một số thư viện hỗ trợ
+  ![image](https://github.com/user-attachments/assets/58028132-116a-4b35-9531-a177cd612e1a
+  
+  4. Cài đặt cơ sở dữ liệu
+  5. Chạy dự án
   - ![image](https://github.com/user-attachments/assets/eaf38827-c2a5-478a-8f41-511359727ae3)
 #### HƯỚNG DẪN SỬ DỤNG
 1. Đăng nhập tài khoản
