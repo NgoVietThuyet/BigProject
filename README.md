@@ -17,11 +17,11 @@
 6. [Đóng góp](#đóng-góp)
 7. [Liên hệ](#liên-hệ)
 
-# GIỚI THIỆU
+# I. GIỚI THIỆU
 - Dư án THƯ VIỆN SỐ ANTEXT là một dự án bài của môn học OOP do cô Nguyễn Thu Trang trực tiếp giảng dạy.
 - Dự án là một ứng dụng quản lý thư viện được thiết kế để giúp quản lý các tài liệu về sách, báo, tài khoản quản lý, người dùng và các thông tin liên quan một cách dễ dàng hơn.
 
-## CÁC TÍNH NĂNG
+## II. CÁC TÍNH NĂNG
 ✅ Đăng ký, Đăng nhập
 
 :white_check_mark: Quản lý sách, tài liệu: thêm, sửa, xóa thông tin các loại tài liệu.
@@ -29,7 +29,7 @@
 :white_check_mark: Tìm kiếm thông tin tài liệu theo các tiêu chí: tên, tác giả, thể loại,...
 :white_check_mark: Giao diện thân thiện với người dùng. 
 
-### CÀI ĐẶT
+### III. CÀI ĐẶT
 # Yêu cầu hệ thống
   +  Ngôn ngữ lập trình Java.
   +  MySQL.
@@ -45,7 +45,7 @@
   
   5. Chạy dự án
   - ![image](https://github.com/user-attachments/assets/eaf38827-c2a5-478a-8f41-511359727ae3)
-#### SỬ DỤNG
+#### IV. SỬ DỤNG
 1. Đăng nhập tài khoản
 * Tài khoản quán lý 
    + Tên đăng nhập: thuyet
@@ -55,7 +55,7 @@
 2. Giao diện
 Trang chủ -> Các trang giao diện khác.
 
-###### CÔNG NGHỆ SỬ DỤNG
+###### V. CÔNG NGHỆ SỬ DỤNG
   - Ngôn ngữ lập trình Java
   - Cơ sở dữ liệu MySQL
   - Thư viện GUI (Graphical User Interface): Java Swing
@@ -63,10 +63,10 @@ Trang chủ -> Các trang giao diện khác.
    + ChatGPT 3.5
    + Kênh YouTube JMaster IO: https://www.youtube.com/watch?v=QmHBWBA_w-I&list=PLsfLgp1K1xQ7dDUcjtlRQhZJxl0orbEsd
      
-# ĐÓNG GÓP
+# VI. ĐÓNG GÓP
 - File báo cáo đóng góp của mỗi thành viên nhóm 11 trong dự án:
 
-# Liên hệ
+# VII. Liên hệ
 - Ngọ Viết Thuyết : 23021730@vnu.edu.vn
 
 
