@@ -5,7 +5,7 @@
    + Mai Đức Văn
    + Nguyễn Văn Thịnh
    + Kiều Đức Thắng
-## Mục lục
+# Mục lục
 1. [Giới thiệu](#giới-thiệu)
 2. [Các tính năng](#các-tính-năng)
 3. [Cài đặt](#cài-đặt)
@@ -15,5 +15,11 @@
 5. [Đóng góp](#đóng-góp)
 6. [Liên hệ](#liên-hệ)
 
-# Giới thiệu
- 1 + 1 = 2
+# giới-thiệu
+- Dư án THƯ VIỆN SỐ ANTEXT là một dự án bài của môn học OOP do cô Nguyễn Thu Trang trực tiếp giảng dạy.
+- Dự án là một ứng dụng quản lý thư viện được thiết kế để giúp quản lý các tài liệu về sách, báo, tài khoản quản lý, người dùng và các thông tin liên quan một cách dễ dàng hơn.
+
+## các-tính-năng
+✅ Đăng ký, Đăng nhập
+
+:white_check_mark: 
