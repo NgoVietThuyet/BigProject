@@ -12,8 +12,10 @@
     - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
     - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
 4. [Sử dụng](#sử-dụng)
-5. [Đóng góp](#đóng-góp)
-6. [Liên hệ](#liên-hệ)
+5. [Công nghệ sử dụng](#Công-nghệ-sử-dụng)
+    - [Tài liệu tham khảo](#Tài-liệu-tham-khảo)
+6. [Đóng góp](#đóng-góp)
+7. [Liên hệ](#liên-hệ)
 
 # GIỚI THIỆU
 - Dư án THƯ VIỆN SỐ ANTEXT là một dự án bài của môn học OOP do cô Nguyễn Thu Trang trực tiếp giảng dạy.
@@ -37,12 +39,13 @@
   https://github.com/ducvanz/BTL_OOP.git
 
   3. Cài đặt một số thư viện hỗ trợ
-  ![image](https://github.com/user-attachments/assets/58028132-116a-4b35-9531-a177cd612e1a
-  
+  ![image](https://github.com/user-attachments/assets/e1b9f74d-cb72-4d6f-bbd1-30e59f8d55e1)
+
   4. Cài đặt cơ sở dữ liệu
+  
   5. Chạy dự án
   - ![image](https://github.com/user-attachments/assets/eaf38827-c2a5-478a-8f41-511359727ae3)
-#### HƯỚNG DẪN SỬ DỤNG
+#### SỬ DỤNG
 1. Đăng nhập tài khoản
 * Tài khoản quán lý 
    + Tên đăng nhập: thuyet
@@ -56,7 +59,15 @@ Trang chủ -> Các trang giao diện khác.
   - Ngôn ngữ lập trình Java
   - Cơ sở dữ liệu MySQL
   - Thư viện GUI (Graphical User Interface): Java Swing
-  - 
+ # Tài liệu tham khảo
+   + ChatGPT 3.5
+   + Kênh YouTube JMaster IO: https://www.youtube.com/watch?v=QmHBWBA_w-I&list=PLsfLgp1K1xQ7dDUcjtlRQhZJxl0orbEsd
+     
+# ĐÓNG GÓP
+- File báo cáo đóng góp của mỗi thành viên nhóm 11 trong dự án:
+
+# Liên hệ
+- Ngọ Viết Thuyết : 23021730@vnu.edu.vn
 
 
   
