@@ -25,8 +25,11 @@
 ✅ Đăng ký, Đăng nhập
 
 :white_check_mark: Quản lý sách, tài liệu: thêm, sửa, xóa thông tin các loại tài liệu.
+
 :white_check_mark: Quản lý người dùng: thêm, sửa, xóa, mượn các loại sách.
+
 :white_check_mark: Tìm kiếm thông tin tài liệu theo các tiêu chí: tên, tác giả, thể loại,...
+
 :white_check_mark: Giao diện thân thiện với người dùng. 
 
 ### III. CÀI ĐẶT
