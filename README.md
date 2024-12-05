@@ -46,7 +46,7 @@
   ![image](https://github.com/user-attachments/assets/e1b9f74d-cb72-4d6f-bbd1-30e59f8d55e1)
 
   4. Cài đặt cơ sở dữ liệu
-  ![Mô tả ảnh](https://raw.githubusercontent.com/NgoVietThuyet/BigProject/master/z6095725055332_e5292ff43c26e3bacb34af3807381093.jpg)
+  ![Sơ đồ thiết kế cơ sở dữ liệu](https://raw.githubusercontent.com/NgoVietThuyet/BigProject/master/z6095725055332_e5292ff43c26e3bacb34af3807381093.jpg)
   
   5. Chạy dự án
   - ![image](https://github.com/user-attachments/assets/eaf38827-c2a5-478a-8f41-511359727ae3)
