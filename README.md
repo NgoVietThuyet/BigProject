@@ -47,7 +47,8 @@
 
   4. Cài đặt cơ sở dữ liệu
   ![Sơ đồ thiết kế cơ sở dữ liệu](https://raw.githubusercontent.com/NgoVietThuyet/BigProject/master/z6095725055332_e5292ff43c26e3bacb34af3807381093.jpg)
-  
+
+  + Code CSDL https://github.com/NgoVietThuyet/BigProject/commit/813613339daa1574630e965132e46fe0de4fd23b#diff-525673b172f082a4c38228fee5b07a98de7141f5153c6564a3ee929838e81056
   5. Chạy dự án
   - ![image](https://github.com/user-attachments/assets/eaf38827-c2a5-478a-8f41-511359727ae3)
 # IV. SỬ DỤNG
